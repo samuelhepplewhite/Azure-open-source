@@ -7,7 +7,7 @@
       "RDP",
       "Linux"
     ],
-    "iconUri": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/128px-Java_programming_language_logo.svg.png",
+    "iconUri": "http://www.xrdp.org/templates/rhuk_milkyway/favicon.ico",
     "targetOsType": "Linux",
     "runCommand": {
         "commandToExecute": "['sh xrdp_install.sh']"
