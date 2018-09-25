@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
+    "title": "RDP (Linux)",
+    "publisher": "Samuel Hepplewhite",
+    "description": "Install RDP on Debian and Redhat distributions.",
+    "tags": [
+      "RDP",
+      "Linux"
+    ],
+    "iconUri": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/128px-Java_programming_language_logo.svg.png",
+    "targetOsType": "Linux",
+    "runCommand": {
+        "commandToExecute": "['sh xrdp_install.sh']"
+    }
+}
